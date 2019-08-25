@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DessertNames</string>
+    <string name="action_settings">Settings</string>
+    <string name="cupcake_donut_eclair_froyo_honeycomb_ice_cream_sandwich_jelly_bean_kit_kat_and_lollipop">Cupcake, Donut, Eclair, Froyo, Honeycomb, Ice Cream Sandwich, Jelly Bean, Kit Kat, and Lollipop</string>
+</resources>
